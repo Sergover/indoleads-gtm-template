@@ -2,5 +2,5 @@ homepage: "https://indoleads.com"
 documentation: "https://indoleads.com"
 
 versions:
-  - sha: PUT_COMMIT_SHA_HERE
+  - sha: 38f20bc726c585aedbd8b57149fc44140629433f
     changeNotes: Initial release.
