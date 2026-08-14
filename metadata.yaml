@@ -1,0 +1,6 @@
+homepage: "https://indoleads.com"
+documentation: "https://indoleads.com"
+
+versions:
+  - sha: PUT_COMMIT_SHA_HERE
+    changeNotes: Initial release.
