@@ -2,5 +2,7 @@ homepage: "https://indoleads.com"
 documentation: "https://indoleads.com"
 
 versions:
+  - sha: 204759f4663c0edd441a81bc2521d9a2af333971
+    changeNotes: Add gallery categories and brand name.
   - sha: 38f20bc726c585aedbd8b57149fc44140629433f
     changeNotes: Initial release.
